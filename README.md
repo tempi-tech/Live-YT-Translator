@@ -1,5 +1,11 @@
 # Live YT Translator
 
+> Japanese guide: [README.ja.md](README.ja.md)
+>
+> This repository is a fork of
+> [petergpt/Live-YT-Translator](https://github.com/petergpt/Live-YT-Translator).
+> The original project is published under the MIT License.
+
 A Chrome extension for live-translating YouTube videos with OpenAI Realtime.
 Choose a language, press **Start**, and hear translated speech while a live
 caption overlay follows the video.
